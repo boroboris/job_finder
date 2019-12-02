@@ -1,0 +1,3 @@
+Person A can apply for job in company Company J
+This job has no requirements
+--------------------------

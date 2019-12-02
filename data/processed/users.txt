@@ -1,0 +1,1 @@
+{"name":"Person A","qualifications":[["mobile phone"],["suit"]]}
