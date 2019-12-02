@@ -1,7 +1,7 @@
-#Setup
+# Setup
 php 7.2 and PHPUnit 7.5.17
 
-#Task
+# Task
 
 Imagine you have a bike and a driving license. You also found a job board with a list of companies offering a job. 
 To get the job, you need to fulfill some requirements. There are 10.000 companies on the job board, 10 examples are as follows:
